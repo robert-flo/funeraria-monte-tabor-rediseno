@@ -1,0 +1,15 @@
+# Plans board ARIA snapshot (phone-portrait, then rechecked on landscape)
+
+Source: browser_snapshot at http://127.0.0.1:57597/ after js/design-system.js ran (`[colaboradores]` present).
+
+Observed names in the plans section:
+
+- heading: Planes Adaptables a las Necesidades de tu Empresa
+- heading: Económico / $5.00 / / colab / mes
+- text: El más solicitado
+- heading: Jardín / $10.00 / / colab / mes
+- heading: Presidencial / $20.00 / / colab / mes
+- text: Todos los precios incluyen IVA.
+- link: Cotiza el plan de tu empresa por WhatsApp al 7465-7567
+
+Live DOM (Runtime.evaluate) also has three `.plan-photo figcaption` strings: `Tipo de ataúd Económico`, `Tipo de ataúd Jardín`, `Tipo de ataúd Presidencial`. The compact snapshot did not list those captions. Images use `alt=""`.

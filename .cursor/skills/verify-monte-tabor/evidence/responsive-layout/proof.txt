@@ -1,0 +1,11 @@
+feature: responsive-layout
+entry: load /
+url: http://127.0.0.1:55063/
+viewports:
+  - phone-portrait 390x844 hand. assert-viewport OK. heroCtaBottom 537 (fold 844). opBandWraps false. plan-board 1 col. hint absent. pageOverflowX false
+  - tablet-portrait 768x1024 lap. assert-viewport OK. hero 2 col. heroCtaWidth 256. planHeadHeights 117 117 117. planFactTops 1560 1560 1560. plan rights 280 490 700. hint absent
+  - phone-landscape 844x390 lap. assert-viewport OK. hero 2 col. heroCtaBottom 265 (fold 390). planHeadHeights 118 118 118. planFactTops 1126 1126 1126
+  - tablet-landscape 1024x768 desk. assert-viewport OK. hero 2 col. plan-board 3 col. planHeadHeights 124 124 124
+  - desktop 1280x800 desk. assert-viewport OK. hero 2 col. plan-board 3 col. planHeadHeights 127 127 127
+whatsapp: assert-wa-hrefs.py OK
+screenshots: phone-portrait.png phone-portrait-table.png tablet-portrait.png tablet-portrait-table.png phone-landscape.png (CDP Page.captureScreenshot; harness may tile)

@@ -1,0 +1,63 @@
+{
+  "innerWidth": 844,
+  "innerHeight": 390,
+  "clientWidth": 844,
+  "scrollWidth": 844,
+  "pageOverflowX": false,
+  "tableHintDisplay": null,
+  "tableHintText": null,
+  "mastheadColumns": 2,
+  "heroColumns": 2,
+  "benefitColumns": 2,
+  "contactColumns": 2,
+  "metaRowColumns": 2,
+  "planBoardColumns": 3,
+  "planCount": 3,
+  "planRights": [
+    307,
+    539,
+    772
+  ],
+  "featuredRight": 539,
+  "heroCtaTop": 145,
+  "heroCtaBottom": 267,
+  "heroCtaWidth": 256,
+  "opSinceDisplay": "block",
+  "opPhrases": [
+    {
+      "text": "Servicio dentro y fuera de San Salvador",
+      "top": 108,
+      "height": 17,
+      "right": 376,
+      "lines": 1
+    },
+    {
+      "text": "24 horas, 365 días del año",
+      "top": 108,
+      "height": 17,
+      "right": 583,
+      "lines": 1
+    },
+    {
+      "text": "Establecida en 2006",
+      "top": 105,
+      "height": 21,
+      "right": 772,
+      "lines": 3
+    }
+  ],
+  "opBandSingleRow": false,
+  "opBandWraps": true,
+  "planHeadHeights": [
+    119,
+    119,
+    119
+  ],
+  "planFactTops": [
+    1129,
+    1129,
+    1129
+  ],
+  "floatVisibility": "hidden",
+  "company": "Funeraria Monte Tabor"
+}

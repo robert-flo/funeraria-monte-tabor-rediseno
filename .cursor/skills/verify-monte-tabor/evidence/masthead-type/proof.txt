@@ -1,0 +1,6 @@
+feature: masthead-type
+entry: /
+viewports: phone-portrait, tablet-portrait, phone-landscape, desktop
+VERIFY_URL: http://127.0.0.1:8765/
+assert-viewport: OK phone-portrait, tablet-portrait, phone-landscape
+notes: Periodo 2026 replaced by Cámara de Comercio membership in `.credential`. Phone wraps to two lines under the identity rule. Tablet/desktop/landscape keep a right-hand stamp. assert-viewport OK on the three required devices.

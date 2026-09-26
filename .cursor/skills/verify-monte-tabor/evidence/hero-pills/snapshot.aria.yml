@@ -1,0 +1,33 @@
+# browser_snapshot at http://127.0.0.1:8766/ (desktop metrics).
+# The MCP snapshot omits the hero benefit list. Live DOM via Runtime.evaluate:
+# .pills[role=list aria-label="Beneficios principales"]
+#   listitem: Contratos desde $5
+#   listitem: $0 de prima
+#   listitem: 3 planes a tu medida
+#   listitem: IVA incluido
+#   listitem: Sin intereses ni cargo por mora
+- role: document
+  name: Funeraria Monte Tabor — Plan empresarial 2026
+  children:
+    - role: link
+      name: Escríbenos por WhatsApp al 7465-7567
+    - role: link
+      name: 17 Av. Norte y 3.ª Calle Poniente # 237, San Salvador
+    - role: link
+      name: Cotiza el plan de tu empresa por WhatsApp al 7465-7567
+    - role: heading
+      name: Planes de protección corporativa para [colaboradores] .
+      level: 1
+    - role: list
+      name: Beneficios principales
+      children:
+        - role: listitem
+          name: Contratos desde $5
+        - role: listitem
+          name: $0 de prima
+        - role: listitem
+          name: 3 planes a tu medida
+        - role: listitem
+          name: IVA incluido
+        - role: listitem
+          name: Sin intereses ni cargo por mora

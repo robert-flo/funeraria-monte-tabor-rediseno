@@ -1,0 +1,54 @@
+{
+  "required": ["phone-portrait", "tablet-portrait", "phone-landscape"],
+  "recommended": ["tablet-landscape", "desktop"],
+  "handMaxRem": 40,
+  "deskMinRem": 64,
+  "devices": {
+    "phone-portrait": {
+      "width": 390,
+      "height": 844,
+      "deviceScaleFactor": 2,
+      "mobile": true,
+      "touch": true,
+      "cssBucket": "hand",
+      "label": "iPhone-class portrait"
+    },
+    "phone-landscape": {
+      "width": 844,
+      "height": 390,
+      "deviceScaleFactor": 2,
+      "mobile": true,
+      "touch": true,
+      "cssBucket": "lap",
+      "heroCtaOnFirstScreen": true,
+      "label": "iPhone-class landscape"
+    },
+    "tablet-portrait": {
+      "width": 768,
+      "height": 1024,
+      "deviceScaleFactor": 2,
+      "mobile": true,
+      "touch": true,
+      "cssBucket": "lap",
+      "label": "iPad-class portrait (lap band: two-column hero, three plan cards)"
+    },
+    "tablet-landscape": {
+      "width": 1024,
+      "height": 768,
+      "deviceScaleFactor": 2,
+      "mobile": true,
+      "touch": true,
+      "cssBucket": "desk",
+      "label": "iPad-class landscape"
+    },
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "deviceScaleFactor": 1,
+      "mobile": false,
+      "touch": false,
+      "cssBucket": "desk",
+      "label": "desktop"
+    }
+  }
+}

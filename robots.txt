@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://funeraria-monte-tabor.me/sitemap.xml

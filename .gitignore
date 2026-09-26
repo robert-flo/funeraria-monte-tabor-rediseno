@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+.cursor/skills/verify-monte-tabor/run/
+.cursor/skills/verify-monte-tabor/evidence/**/*.png
+__pycache__/

@@ -1,0 +1,7 @@
+feature: plan-photos
+entry: / section.plans
+verify_url: http://127.0.0.1:57597/
+viewports: phone-portrait, tablet-portrait, phone-landscape
+assert-viewport: OK all three
+assert-wa-hrefs: OK
+notes: launch.sh lsof check fails on Windows. Server was python -m http.server 57597. Doctor skipped for the same lsof reason.

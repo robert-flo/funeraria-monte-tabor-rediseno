@@ -1,0 +1,18 @@
+{
+  "innerWidth": 1280,
+  "innerHeight": 800,
+  "clientWidth": 1265,
+  "scrollWidth": 1265,
+  "pageOverflowX": false,
+  "tableHintDisplay": null,
+  "heroColumns": 2,
+  "planBoardColumns": 3,
+  "planCount": 3,
+  "planRights": [418, 748, 1078],
+  "featuredRight": 748,
+  "heroCtaBottom": 515,
+  "heroCtaWidth": 256,
+  "planHeadHeights": [127, 127, 127],
+  "planFactTops": [1507, 1507, 1507],
+  "company": "Funeraria Monte Tabor"
+}

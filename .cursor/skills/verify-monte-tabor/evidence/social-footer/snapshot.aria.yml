@@ -1,0 +1,14 @@
+- role: document
+  name: Funeraria Monte Tabor — Plan empresarial 2026
+  children:
+    - role: heading
+      name: Nuestras redes
+      level: 2
+    - role: link
+      name: TikTok de Funeraria Monte Tabor
+    - role: link
+      name: Facebook de Funeraria Monte Tabor
+    - role: link
+      name: Instagram de Funeraria Monte Tabor
+    - role: link
+      name: Escríbenos por WhatsApp al 7465-7567

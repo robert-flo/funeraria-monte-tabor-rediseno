@@ -1,0 +1,85 @@
+- role: document
+  name: Funeraria Monte Tabor — Plan empresarial 2026
+  ref: root
+  children:
+    - role: link
+      name: Escríbenos por WhatsApp al 7465-7567
+      ref: e0
+    - role: link
+      name: 17 Av. Norte y 3.ª Calle Poniente # 237, San Salvador
+      ref: e1
+    - role: link
+      name: Cotiza el plan de tu empresa por WhatsApp al 7465-7567
+      ref: e2
+    - role: link
+      name: Escríbenos por WhatsApp al 7465-7567
+      ref: e3
+      nth: 1
+      name: Funeraria Monte Tabor
+      ref: e4
+      name: “El servicio completo en el momento necesario”
+      ref: e5
+    - role: heading
+      name: "Planes de protección corporativa para [colaboradores] ."
+      ref: e6
+      level: 1
+      name: Ayuda a tus colaboradores a planificar con anticipación, garantizando protección y tranquilidad en caso de fallecimiento del empleado o de un ser querido.
+      ref: e7
+      name: 17 Av. Norte y 3.ª Calle Poniente # 237, San Salvador Entre Universidad Tecnológica y Universidad Alberto Masferrer
+      ref: e8
+      name: Miembro de la Cámara de Comercio e Industria de El Salvador Miembro fundador de la Asociación de Funerarias Salvadoreñas (AFUSAL)
+      ref: e9
+    - role: heading
+      name: Servicios funerarios en Previsión
+      ref: e10
+      level: 2
+    - role: listitem
+      name: Atención personalizada las 24 horas, los 365 días del año.
+      ref: e11
+    - role: listitem
+      name: Cobertura dentro y fuera de San Salvador.
+      ref: e12
+    - role: listitem
+      name: Planes Económico, Jardín y Presidencial ajustados a tu presupuesto.
+      ref: e13
+    - role: listitem
+      name: Sin costo de prima al momento de contratar.
+      ref: e14
+    - role: heading
+      name: Planes Adaptables a las Necesidades de tu Empresa
+      ref: e15
+      level: 2
+    - role: heading
+      name: Económico
+      ref: e16
+      level: 3
+      name: $5.00
+      ref: e17
+      name: / colab / mes
+      ref: e18
+      name: El más solicitado
+      ref: e19
+    - role: heading
+      name: Jardín
+      ref: e20
+      level: 3
+      name: $10.00
+      ref: e21
+      name: / colab / mes
+      ref: e22
+    - role: heading
+      name: Presidencial
+      ref: e23
+      level: 3
+      name: $20.00
+      ref: e24
+      name: / colab / mes
+      ref: e25
+      name: Todos los precios incluyen IVA.
+      ref: e26
+    - role: heading
+      name: ¿Sería posible programar una reunión?
+      ref: e27
+      level: 2
+      name: Para presentarle nuestras soluciones de previsión y mostrarle cómo pueden convertirse en un beneficio de valor para sus empleados.
+      ref: e28

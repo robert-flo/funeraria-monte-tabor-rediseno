@@ -1,0 +1,15 @@
+feature: hero-pills
+entry: / (hero .pills)
+viewports: phone-portrait, tablet-portrait, phone-landscape, desktop
+verify_url: http://127.0.0.1:8766/
+asserts:
+  - assert-viewport.py phone-portrait evidence/hero-pills/phone-portrait.json -> OK
+  - assert-viewport.py tablet-portrait evidence/hero-pills/tablet-portrait.json -> OK
+  - assert-viewport.py phone-landscape evidence/hero-pills/phone-landscape.json -> OK
+pills:
+  - Contratos desde $5
+  - $0 de prima
+  - 3 planes a tu medida
+  - IVA incluido
+  - Sin intereses ni cargo por mora
+notes: Phone-landscape hides .pills via the short-height compact rule. CTA bottom 267 <= 390.

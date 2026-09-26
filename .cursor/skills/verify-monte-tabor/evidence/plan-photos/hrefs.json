@@ -1,0 +1,27 @@
+[
+  {
+    "source": "hero",
+    "href": "https://wa.me/50374657567?text=Hola%2C%20vengo%20de%20la%20p%C3%A1gina%20web%20y%20quiero%20informaci%C3%B3n%20sobre%20los%20planes%20empresariales.",
+    "aria": "Escr\u00edbenos por WhatsApp al 7465-7567"
+  },
+  {
+    "source": "plans",
+    "href": "https://wa.me/50374657567?text=Hola%2C%20vi%20los%20planes%20en%20la%20p%C3%A1gina%20web%20y%20quiero%20una%20cotizaci%C3%B3n%20para%20mi%20empresa.",
+    "aria": "Cotiza el plan de tu empresa por WhatsApp al 7465-7567"
+  },
+  {
+    "source": "close",
+    "href": "https://wa.me/50374657567?text=Hola%2C%20vengo%20de%20la%20p%C3%A1gina%20web%20y%20quiero%20agendar%20una%20reuni%C3%B3n%20para%20conocer%20los%20planes%20empresariales.",
+    "aria": "Escr\u00edbenos por WhatsApp al 7465-7567"
+  },
+  {
+    "source": "social",
+    "href": "https://wa.me/50374657567?text=Hola%2C%20vengo%20de%20las%20redes%20en%20la%20p%C3%A1gina%20web%20y%20quiero%20informaci%C3%B3n%20sobre%20los%20planes%20empresariales.",
+    "aria": "Escr\u00edbenos por WhatsApp al 7465-7567"
+  },
+  {
+    "source": "float",
+    "href": "https://wa.me/50374657567?text=Hola%2C%20vengo%20de%20la%20p%C3%A1gina%20web%20y%20quiero%20hablar%20con%20un%20asesor.",
+    "aria": "Escr\u00edbenos por WhatsApp al 7465-7567"
+  }
+]
